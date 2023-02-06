@@ -1,2 +1,2 @@
-# wed
-Diseño de Wed
+# web
+Diseño de Web
